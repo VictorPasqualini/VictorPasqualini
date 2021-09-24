@@ -4,6 +4,7 @@
 
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VictorPasqualini&show_icons=true&bg_color=0d1117&title_color=61dafb&text_color=fff&hide_border=true&icon_color=61dafb&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPasqualini&langs_count=6&bg_color=0d1117&title_color=61dafb&text_color=fff&hide_border=true&icon_color=BE90F2&layout=compact" />
 </div>
   
 <div style="display: inline_block"><br>
