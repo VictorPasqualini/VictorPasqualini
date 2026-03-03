@@ -1,5 +1,15 @@
 # Hi, I'm Victor and welcome to my Github 
 
+Sou engenheiro de dados focado em construir soluções simples, eficientes e escaláveis para problemas reais.
+
+Trabalho com Python, Spark e SQL no desenvolvimento de pipelines de dados, ingestão via APIs, processamento distribuído e modelagem em arquiteturas modernas (Data Lake, Bronze/Silver/Gold). Tenho experiência com ambientes em cloud, orquestração de jobs e otimização de custos.
+
+Gosto de transformar processos complexos em soluções organizadas, automatizadas e sustentáveis. Acredito que engenharia de dados não é só tecnologia — é governança, performance e clareza na entrega de valor.
+
+Aqui você vai encontrar projetos práticos, testes de arquitetura, estudos sobre performance e experimentos com dados.
+
+Sempre aberto a trocar ideias sobre dados, arquitetura e boas práticas.
+
 ##
   
 <div style="display: inline_block"><br>
