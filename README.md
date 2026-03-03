@@ -1,4 +1,5 @@
-# Ohayou, bem vindo ao meu Github
+# Hi, I'm Victor 
+# and welcome to my Github 
 
 ##
 
