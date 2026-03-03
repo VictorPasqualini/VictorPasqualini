@@ -1,5 +1,4 @@
-# Hi, I'm Victor 
-# and welcome to my Github 
+# Hi, I'm Victor and welcome to my Github 
 
 ##
 
