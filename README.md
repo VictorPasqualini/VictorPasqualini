@@ -6,8 +6,6 @@ Sou engenheiro de dados especializado em construir pipelines robustos, arquitetu
 
 Trabalho com Python, Spark e SQL no desenvolvimento de pipelines batch e ingestão via APIs, modelagem em arquiteturas modernas (Data Lake com camadas Bronze/Silver/Gold), processamento distribuído e otimização de performance e custos em cloud.
 
-Tenho forte interesse em governança, organização de dados e desenho de arquiteturas sustentáveis.
-
 Aqui você vai encontrar projetos práticos, estudos de arquitetura, testes de performance e experimentos focados em engenharia de dados.
 
 🇺🇸  
