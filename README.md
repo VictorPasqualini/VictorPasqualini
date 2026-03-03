@@ -1,14 +1,21 @@
-# Hi, I'm Victor and welcome to my Github 
+# Hi, I'm Victor 👋  
+Data Engineer focused on scalable and cost-efficient data solutions.
 
-Sou engenheiro de dados focado em construir soluções simples, eficientes e escaláveis para problemas reais.
+🇧🇷  
+Sou engenheiro de dados especializado em construir pipelines robustos, arquiteturas escaláveis e soluções eficientes para problemas reais de negócio.
 
-Trabalho com Python, Spark e SQL no desenvolvimento de pipelines de dados, ingestão via APIs, processamento distribuído e modelagem em arquiteturas modernas (Data Lake, Bronze/Silver/Gold). Tenho experiência com ambientes em cloud, orquestração de jobs e otimização de custos.
+Trabalho com Python, Spark e SQL no desenvolvimento de pipelines batch e ingestão via APIs, modelagem em arquiteturas modernas (Data Lake com camadas Bronze/Silver/Gold), processamento distribuído e otimização de performance e custos em cloud.
 
-Gosto de transformar processos complexos em soluções organizadas, automatizadas e sustentáveis. Acredito que engenharia de dados não é só tecnologia — é governança, performance e clareza na entrega de valor.
+Tenho forte interesse em governança, organização de dados e desenho de arquiteturas sustentáveis.
 
-Aqui você vai encontrar projetos práticos, testes de arquitetura, estudos sobre performance e experimentos com dados.
+Aqui você vai encontrar projetos práticos, estudos de arquitetura, testes de performance e experimentos focados em engenharia de dados.
 
-Sempre aberto a trocar ideias sobre dados, arquitetura e boas práticas.
+🇺🇸  
+Data Engineer specialized in building robust pipelines, scalable architectures, and efficient solutions for real business problems.
+
+I work with Python, Spark, and SQL to design batch pipelines, API ingestion processes, distributed processing, and modern Data Lake architectures (Bronze/Silver/Gold layers). I’m focused on performance, cost optimization, and sustainable data systems.
+
+Here you’ll find practical projects, architecture experiments, and performance-driven data engineering studies.
 
 ##
   
